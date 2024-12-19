@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+az<!DOCTYPE html>
 <html>
 	<head>
 <title> HOME PAGE</title>
